@@ -1,0 +1,41 @@
+1692876616815	geckodriver	INFO	Listening on 127.0.0.1:53798
+1692876620197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HUSEYI~1\\AppData\\Local\\Temp\\rust_mozprofile1YoEcp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692876627882	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692876628947	Marionette	INFO	Listening on port 53818
+Read port: 53818
+WebDriver BiDi listening on ws://127.0.0.1:53799
+1692876629651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53799/devtools/browser/188d2ea0-8a99-49e4-b530-64efded0ed9a
+[Parent 20552, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21152, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: https://localhost:44382/Register/Index, line 265: ReferenceError: NativeAdPub is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://localhost:44382."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://localhost:44382."
+JavaScript error: https://localhost:44382/MailConfirm/Index, line 252: ReferenceError: NativeAdPub is not defined
+JavaScript error: https://localhost:44382/Login/Index, line 251: ReferenceError: NativeAdPub is not defined
+1692876658010	Marionette	INFO	Stopped listening on port 53818
+JavaScript warning: https://localhost:44382/_vs/browserLink, line 47: Script terminated by timeout at:
+start/success/<@https://localhost:44382/_vs/browserLink:47:10402
+each@https://localhost:44382/_vs/browserLink:21:14428
+success@https://localhost:44382/_vs/browserLink:47:10296
+k@https://localhost:44382/_vs/browserLink:21:16920
+fireWith@https://localhost:44382/_vs/browserLink:21:17707
+y@https://localhost:44382/_vs/browserLink:21:80804
+d@https://localhost:44382/_vs/browserLink:21:86374
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 20552, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21152, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20552, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21152, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20552, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21152, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20552, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21152, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+[Parent 20552, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 21152, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
